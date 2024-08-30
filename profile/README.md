@@ -1,6 +1,6 @@
 # Nexuto 🌐🚪
 
-Nexuto is a modular application builder designed to create AI-powered applications by leveraging a distributed architecture. It combines the concepts of "Nexus" and "戸" (meaning "door" or "connection" in Japanese), symbolizing its role as a gateway between various computational resources.
+Nexuto is a modular application builder designed to create AI-powered applications by leveraging a distributed architecture. It combines the concepts of "Nexus" and "戸" (meaning "door" in Japanese), symbolizing its role as a gateway between various computational resources.
 
 ## Key Features ✨
 
