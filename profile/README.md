@@ -27,4 +27,4 @@
 - **Distributed Computing 🌍**: Great for processing large-scale tasks.
 
 ## License 📄
-- Licensed under **CC BY-NC 4.0** 📜—share and adapt, but no commercial use 🚫.
+- Licensed under **CC BY-NC 4.0** 📜- share and adapt, but no commercial use 🚫.
